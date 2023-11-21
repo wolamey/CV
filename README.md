@@ -1,5 +1,5 @@
 # Curriculum-vitae
 
-[markdown-version](https://nanudoldirmgjj.github.io/Curriculum-vitae/cv)
+[markdown-version](https://nanudoldirmgjj.github.io/cv)
 
 [web-site-version](https://nanudoldirmgjj.github.io/CV/)
