@@ -2,4 +2,4 @@
 
 [markdown-version](https://nanudoldirmgjj.github.io/Curriculum-vitae/cv)
 
-[web-site-version]([https://nanudoldirmgjj.github.io/Curriculum-vitae/](https://nanudoldirmgjj.github.io/CV/)https://nanudoldirmgjj.github.io/CV/)
+[web-site-version](https://nanudoldirmgjj.github.io/CV/)
