@@ -1,3 +1,3 @@
 # Curriculum-vitae
 
-[web-site-version](https://nanudoldirmgjj.github.io/CV/)
+[gh-pages version](https://wolamey.github.io/CV/)
